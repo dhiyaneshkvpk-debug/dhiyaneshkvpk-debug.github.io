@@ -1,4 +1,13 @@
-theme: jekyll-theme-cayman
-title: Dhiyanesh E | Data Analyst Portfolio
-description: Technical Data Analyst specializing in Healthcare Analytics, SQL, Python, and Predictive Machine Learning Pipelines.
+theme: jekyll-theme-hacker
+title: Dhiyanesh E | Healthcare & IT Data Analytics ⚡
+description: Data Analyst | Transforming complex clinical & operational datasets into predictive machine learning pipelines, SQL models, and executive dashboards.
 show_downloads: false
+
+# Custom Links & Social Media
+github_username: dhiyaneshkvpk-debug
+linkedin_username: dhiyanesh-e-bba891162
+email: dhiyaneshkvpk@gmail.com
+
+# Jekyll Settings
+markdown: kramdown
+highlighter: rouge
