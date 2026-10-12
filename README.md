@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I am a technical and domain-expert **Data Analyst** transitioning from life science content analytics into full-time IT and healthcare data analytics. I combine hands-on experience in data lifecycle management, taxonomy mapping, and data quality governance with strong technical skills in **SQL, Python, and Power BI**.
+I am a technical and domain-expert **Data Analyst** transitioning from life science data analytics into full-time IT and healthcare data analytics. I combine hands-on experience in data lifecycle management, taxonomy mapping, and data quality governance with strong technical skills in **SQL, Python, and Power BI**.
 
 ---
 
